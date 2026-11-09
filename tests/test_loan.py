@@ -1,4 +1,5 @@
 import pytest
+
 from app.loan import monthly_payment
 
 
